@@ -8,4 +8,4 @@ workspace ---> untracked
 Staging area ----> To just keep files
 git repo ----> Tracked files and folders
 
-
+Changes made in the file after 1st commit
